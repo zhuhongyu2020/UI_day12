@@ -1,0 +1,4 @@
+2020-11-10 14:38:37,297 - ERROR - demo_logger_10_stream_file.py - 34行 - <module>() - error信息
+2020-11-10 14:38:37,297 - CRITICAL - demo_logger_10_stream_file.py - 35行 - <module>() - critical信息
+2020-11-10 16:38:06,471 - ERROR - demo_logger_10_stream_file.py - 34行 - <module>() - error信息
+2020-11-10 16:38:06,471 - CRITICAL - demo_logger_10_stream_file.py - 35行 - <module>() - critical信息
